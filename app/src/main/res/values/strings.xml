@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Decagon Android 007</string>
+    <string name="retrieved_posts">Retrieved Posts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="email">Email</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="add_post">Add Post</string>
+    <string name="search">Search</string>
 </resources>
